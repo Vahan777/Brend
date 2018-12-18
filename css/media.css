@@ -1,0 +1,549 @@
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*BLOCK-2*************/
+    .s-block {
+        margin-top: 15px;
+    }
+
+    .oval-1 {
+        width: 130px;
+        height: 130px;
+
+    }
+
+    .oval-2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .oval-2 > i {
+        font-size: 50px;
+        line-height: 120px;
+    }
+
+    .s-block > a {
+        margin-top: 18%;
+    }
+
+    .text-block {
+        margin-top: 13%;
+    }
+
+    .services-block {
+        margin-top: 115px;
+    }
+
+    /*/BLOCK-2************************/
+    /*BLOCK-3**********
+     */
+    .user-block {
+        height: 300px;
+        margin-top: 10px;
+    }
+
+    .icon {
+        margin-top: 4px;
+    }
+
+    .us-block {
+        margin-top: 140px;
+    }
+
+    /*/BLOCK-3-***************/
+    /*BLOCK-4-***************/
+    .portfolio-block {
+        margin-top: 150px;
+    }
+
+    /*/BLOCK-4-***************/
+    /*BLOCK-5-***************/
+    .question {
+        margin-top: 20px;
+    }
+
+    .block-5 {
+        height: 1000px;
+    }
+
+    .question-block {
+        margin-top: 250px;
+    }
+
+    /*/BLOCK-5-***************/
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+    .text-block h3 {
+        color: #ffffff;
+        font-size: 50px;
+        text-transform: uppercase;
+        font-family: myFirstFont;
+
+    }
+
+    /*BLOCK-2*************/
+    .s-block {
+        margin-top: 15px;
+    }
+
+    .oval-1 {
+        width: 120px;
+        height: 120px;
+
+    }
+
+    .oval-2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .oval-2 > i {
+        font-size: 50px;
+        line-height: 120px;
+    }
+
+    .s-block > a {
+        margin-top: 18%;
+    }
+
+    .text-block {
+        margin-top: 10%;
+    }
+
+    .services-block {
+        margin-top: 100px;
+    }
+
+    /*/BLOCK-2************************/
+    /*BLOCK-3**********/
+    .user-block {
+        height: 300px;
+        margin-top: 10px;
+    }
+
+    .icon {
+        margin-top: 4px;
+    }
+
+    .us-block {
+
+        margin-top: 40px;
+    }
+
+    .user-block {
+        height: 300px;
+    }
+
+    .user-icon > i {
+        font-size: 80px;
+        line-height: 135px;
+
+    }
+
+    /*/BLOCK-3-***************/
+    /*BLOCK-4-***************/
+    .portfolio-block {
+        margin-top: 100px;
+    }
+
+    .btn1 > img {
+
+        height: 200px;
+        border-radius: 5px;
+    }
+
+    /*/BLOCK-4-***************/
+    /*BLOCK-5-***************/
+    .question {
+        margin-top: 20px;
+    }
+
+    .block-5 {
+        height: 1000px;
+    }
+
+    .question-block {
+        margin-top: 200px;
+    }
+
+    /*/BLOCK-5-***************/
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    .text-block h3 {
+        color: #ffffff;
+        font-size: 45px;
+        text-transform: uppercase;
+        font-family: myFirstFont;
+
+    }
+
+    /*BLOCK-2*************/
+    .s-block {
+        margin-top: 15px;
+    }
+
+    .oval-1 {
+        width: 120px;
+        height: 120px;
+
+    }
+
+    .oval-2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .oval-2 > i {
+        font-size: 50px;
+        line-height: 100px;
+    }
+
+    .s-block > a {
+        margin-top: 18%;
+    }
+
+    .text-block {
+        margin-top: 7%;
+    }
+
+    .services-block {
+        margin-top: 25px;
+    }
+
+    /*/BLOCK-2************************/
+    /*BLOCK-3**********/
+    .icon {
+        margin-top: 4px;
+    }
+
+    .user-icon {
+        width: 110px;
+        height: 110px;
+    }
+
+    .user-block {
+        height: 300px;
+        margin-top: 10px;
+    }
+
+    .us-block {
+        margin-top: 40px;
+    }
+
+    .user-icon > i {
+        font-size: 80px;
+        line-height: 135px;
+
+    }
+
+    .wraper h3 {
+        font-size: 18px;
+    }
+
+    .nav-pills > li + li {
+        display: block;
+    }
+
+    /*/BLOCK-3-***************/
+    /*BLOCK-4-***************/
+    .portfolio-block {
+        margin-top: 50px;
+    }
+
+    .btn1 > img {
+        height: 160px;
+        border-radius: 5px;
+    }
+
+    .btn1 > span {
+        height: 38px;
+        font-size: 15px;
+    }
+
+    .adres > h4 {
+        text-align: center;
+    }
+
+    .adres h5 {
+        text-align: center;
+    }
+
+    .addres2 {
+        margin-top: 0px;
+    }
+
+    /*/BLOCK-4-***************/
+    /*BLOCK-5-***************/
+    .question {
+        margin-top: 20px;
+    }
+
+    .question-block {
+        margin-top: 200px;
+    }
+
+    .block-5 {
+        height: 1200px;
+    }
+
+    .question input {
+        width: 213px;
+    }
+
+    /*/BLOCK-5-***************/
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 504px) {
+    .email {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .text-block h3 {
+        color: #ffffff;
+        font-size: 35px;
+        text-transform: uppercase;
+        font-family: myFirstFont;
+
+    }
+.text-block h4{
+    	font-size: 15px
+
+    	}
+    .text-block p{
+  font-size: 10px
+    }
+    /*BLOCK-2*************/
+    .s-block {
+        margin-top: 15px;
+    }
+
+    .oval-1 {
+        width: 90px;
+        height: 90px;
+
+    }
+
+    .oval-2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .oval-2 > i {
+        font-size: 35px;
+        line-height: 80px;
+    }
+
+    .s-block > a {
+        margin-top: 18%;
+    }
+
+    .text-block {
+        margin-top: 5%;
+    }
+
+    .services-block {
+        margin-top: 25px;
+    }
+
+    /*/BLOCK-2************************/
+    /*BLOCK-3**********/
+    .icon a {
+        margin-top: 3px;
+    }
+
+    .icon {
+        margin-top: 4px;
+    }
+
+    .us-block {
+        margin-top: 40px;
+    }
+    .user h4{
+     	font-size: 14px
+     }
+     .user p{
+     	font-size: 12px
+     }
+    .user-icon > i {
+        font-size: 80px;
+        line-height: 135px;
+
+    }
+
+    /*/BLOCK-3-***************/
+    /*BLOCK-4-***************/
+    .portfolio-block {
+        margin-top: 50px;
+    }
+
+    .btn1 > img {
+        height: 150px;
+        border-radius: 5px;
+    }
+
+    .btn1 > span {
+        height: 40px;
+        font-size: 10px;
+    }
+
+    .adres > h4 {
+        text-align: center;
+    }
+
+    .adres h5 {
+        text-align: center;
+    }
+
+    .icon a {
+        margin-left: 5px;
+    }
+
+    /*/BLOCK-4-***************/
+    /*BLOCK-5-***************/
+    .question {
+        margin-top: 20px;
+    }
+
+    .question-block {
+        margin-top: 200px;
+    }
+
+    .block-5 {
+        height: 1150px;
+    }
+
+    .question input {
+
+        width: 225px;
+    }
+
+    .email {
+        margin-left: 0;
+    }
+
+    .question input:last-child {
+        margin-top: 10px;
+        margin-left: 10%;
+    }
+
+    /*/BLOCK-5-***************/
+}
+
+@media (max-width: 380px) {
+    .text-block h3 {
+        color: #ffffff;
+        font-size: 28px;
+        text-transform: uppercase;
+        font-family: myFirstFont;
+
+    }
+    
+
+    /*BLOCK-2*************/
+    .s-block {
+        margin-top: 15px;
+    }
+
+    .oval-1 {
+        width: 80px;
+        height: 80px;
+
+    }
+
+    .oval-2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .oval-2 > i {
+        font-size: 30px;
+        line-height: 65px;
+    }
+
+    .s-block > a {
+        margin-top: 18%;
+    }
+
+    .text-block {
+        margin-top: 5%;
+    }
+
+    .services-block {
+        margin-top: 25px;
+    }
+
+    /*/BLOCK-2************************/
+    /*BLOCK-3**********/
+    .icon {
+        margin-top: 4px;
+    }
+
+    .us-block {
+        margin-top: 40px;
+    }
+
+     
+    .user-icon{
+     width: 90px;
+     height: 90px;
+    }
+
+    /*/BLOCK-3-***************/
+    /*BLOCK-4-***************/
+    .portfolio-block {
+        margin-top: 50px;
+    }
+
+    .icon a {
+        margin-left: 0px;
+    }
+
+    .btn1 > img {
+
+        height: 120px;
+        border-radius: 5px;
+    }
+
+    .btn1 > span {
+        display: none;
+    }
+
+    .adres > h4 {
+        text-align: center;
+    }
+
+    .adres h5 {
+        text-align: center;
+    }
+
+    /*/BLOCK-4-***************/
+    /*BLOCK-5-***************/
+    .question {
+        margin-top: 20px;
+    }
+
+    .question-block {
+        margin-top: 200px;
+    }
+
+    .block-5 {
+        height: 1200px;
+    }
+
+    .question input {
+
+        width: 225px;
+    }
+
+    .email {
+        margin-left: 0;
+    }
+
+    /*/BLOCK-5-***************/
+}
